@@ -7,4 +7,6 @@ The word embeddings used to train this model can be found at https://github.com/
 
 #Usage
 To run the app all you need to do is to open a terminal in the the current directory and type
-> flask run
+''' 
+flask run
+'''
