@@ -2,7 +2,5 @@
 A Chatbot system made using seq2seq2 architecture with LSTM-based encoder-decoders.
 
 
-<h1>
-  Hello
-  
-</h1>
+# Word Embeddings
+The word embeddings used to train this model can be found at https://github.com/samarh/urduvec
